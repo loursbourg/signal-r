@@ -1,0 +1,86 @@
+# Build Folders
+bin/
+obj/
+out/
+
+# User-Specific Files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+*.sln.ide.*
+
+# Logs
+*.log
+*.tlog
+
+# Generated Files
+*.generated.cs
+*.designer.cs
+*.g.cs
+*.g.i.cs
+
+# Package Directories
+packages/
+.vscode/
+
+# Visual Studio Cache Files
+.vs/
+.vscode/
+
+# Rider Project Files
+.idea/
+
+# Backup Files
+*.bak
+*.swp
+
+# JetBrains Rider
+.idea/
+
+# Resharper
+*.DotSettings.user
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+.nuget/
+
+# Web Config Files
+appsettings.Development.json
+appsettings.Local.json
+
+# Entity Framework Migrations
+Migrations/*ModelSnapshot.cs
+
+# Secrets and Configuration
+secrets.json
+
+# Other IDE Configurations
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Azure DevOps
+*.coverage
+*.coveragexml
+*.testsettings
+*.runsettings
+
+# DotNet Repositories
+*.vs/
+*.vspscc
+
+# Rider IDE
+.idea/
